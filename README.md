@@ -7,8 +7,7 @@ In addition to my work as a MERN stack developer, I'm also interested in blockch
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh0509&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 📫 How to reach me: 
+📫 How to reach me: 
 - https://www.linkedin.com/in/yogesh0509
 - agrawalyogesh5047@gmail.com
 
