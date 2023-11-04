@@ -14,9 +14,9 @@
 
 I've had the opportunity to work on various projects in the blockchain and web development space. Some of my notable projects include:
 
-- 📈 [WEB3-DREAM11](github.com/yogesh0509/web3-DREAM11): Live auction using real-time data.
-- 🔄 [SocioDAO](github.com/yogesh0509/SocioDAO): Generates zk-proofs on-chain using polygonID.
-- ⛓️ [TakeYourQuiz](github.com/yogesh0509/TakeYourQuiz): A customizable quiz platform.
+- 📈 [WEB3-DREAM11](https://github.com/yogesh0509/web3-DREAM11): Live auction using real-time data.
+- 🔄 [SocioDAO](https://github.com/yogesh0509/SocioDAO): Generates zk-proofs on-chain using polygonID.
+- ⛓️ [TakeYourQuiz](https://github.com/yogesh0509/TakeYourQuiz): A customizable quiz platform.
 - ...and many more!
 
 Feel free to explore these projects and contribute. Your feedback and collaboration are always welcome.
