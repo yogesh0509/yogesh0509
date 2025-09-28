@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hey there! I'm Yogesh Agrawal, a passionate developer and an engineering student specializing in Information Science and Engineering at BMS College of Engineering. I'm excited to share my journey in the world of technology, blockchain, and open-source contributions with you.
+👋 Hey there! I am an Engineer who breaks and builds backend systems, sometimes in Rust, sometimes in JavaScript, often with too much coffee. Played around with DeFi, compilers, and system design.
 
 ## Skills & Qualifications
 
