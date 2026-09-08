@@ -10,22 +10,11 @@
 - 📡 Proficient in creating RESTful APIs
 - 🚀 Open source contributor
 
-## Projects
-
-I've had the opportunity to work on various projects in the blockchain and web development space. Some of my notable projects include:
-
-- 📈 [WEB3-DREAM11](https://github.com/yogesh0509/web3-DREAM11): Live auction using real-time data.
-- 🔄 [SocioDAO](https://github.com/yogesh0509/SocioDAO): Generates zk-proofs on-chain using polygonID.
-- ⛓️ [TakeYourQuiz](https://github.com/yogesh0509/TakeYourQuiz): A customizable quiz platform.
-- ...and many more!
-
-Feel free to explore these projects and contribute. Your feedback and collaboration are always welcome.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh0509&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=yogesh0509&layout=compact&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ## Education
 
-I'm currently pursuing my Bachelor's degree in Information Science and Engineering at BMS College of Engineering and expect to graduate in 2025. I'm constantly learning and striving to stay at the cutting edge of technology.
+I'm have completed my Bachelor's degree in Information Science and Engineering at BMS College of Engineering in the year 2025.
 
 ## Get in Touch
 
